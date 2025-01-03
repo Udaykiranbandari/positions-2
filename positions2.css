@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main
+{
+    height: 35px;
+    width: 100%;
+    display: inline-block;
+    background-color:white;
+    color: white;
+    position: fixed;
+    z-index: 1;
+    padding: 5px;
+    letter-spacing: 5px;
+
+}
+
+.br
+{
+    display: inline-block;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.all
+{
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    padding: 5px;
+    background-color:white;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.image
+{
+    position: relative;
+}
+.br2
+{
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  font-size: xx-large;
+  background-color:black;
+  color:white;
+}
+.yyy
+{
+    position: absolute;
+    top: 45%;
+    left: 55%;
+    font-size: xx-large;
+    color: white;
+}
+.image1
+{
+    display: inline-block;
+    width: 100%;
+}
+.house{
+    display: inline-block;
+    width: 280px;
+    margin-left: 20px;
+    position: relative;
+    padding: 0;
+}
+.house>img{
+    width: 100%;
+}
+.top
+{
+    position: absolute;
+    top: 0;
+    background-color: black;
+    color: white;
+    padding: 2px;
+    margin: 0;
+}
+.img5
+{
+    width: 100%;
+    display: inline-block;
+    position: relative;
+}
+.house2
+{
+    display: inline-block;
+    width: 280px;
+    margin-left: 20px;
+    position: relative;
+    padding: 0;
+}
+.top1
+{
+    position: absolute;
+    top: 0;
+    color: white;
+    background-color: black;
+    margin: 0;
+}
+.house2>img{
+    width: 100%;
+}
+.founder
+{
+    display: inline-block;
+   width: 300px;
+
+}
+img{
+    width: 100%;
+}
+.contact
+{
+    height: 30px;
+    width: 23%;
+    background-color:grey;
+    color:black;
+    text-align: center;
+    display: inline-block;
+}
+input{
+    width:95%;
+    padding: 10px;
+    margin-left: 15px;
+
+}
+.suhhhh
+{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    width: 120px;
+}
